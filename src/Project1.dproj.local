@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.905,=C:\Users\developer\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2014.11.24 16:57:53.256,=C:\Users\developer\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2014.11.24 16:58:09.987,C:\dev\LearningGit\src\Unit1.dfm=C:\Users\developer\Documents\RAD Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2014.11.24 16:58:09.987,C:\dev\LearningGit\src\Unit1.pas=C:\Users\developer\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2014.11.24 16:58:18.012,C:\dev\LearningGit\src\Project1.dproj=C:\Users\developer\Documents\RAD Studio\Projekte\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
